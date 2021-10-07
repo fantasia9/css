@@ -1,0 +1,24 @@
+/* Code bootstrap 5 column aps dụng cho Bootstrap 5 */
+
+<div class="container">
+    <div class="row row-cols-5">
+        <div class="col">
+            X
+        </div>
+        <div class="col">
+            X
+        </div>
+        <div class="col">
+            X
+        </div>
+        <div class="col">
+            X
+        </div>
+        <div class="col">
+            X
+        </div>
+        <div class="col">
+            X
+        </div>
+    </div>
+</div>
